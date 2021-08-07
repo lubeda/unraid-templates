@@ -79,14 +79,6 @@ So use it at your own &amp;lt;B&amp;gt;risk&amp;lt;/B&amp;gt;!</Description>
       <Mode/>
     </Variable>
   </Environment>
-  <Maintainer>
-  <Icon>https://avatars.githubusercontent.com/u/17859549?s=60</Icon>
-  <Profile>
-    I like home assistant and unraid.
-  </Profile>
-  <DonateLink>https://www.paypal.com/donate/?hosted_button_id=FZDKSLQ46HJTU</DonateLink>
-  <DonateText>If you like my work please consider Donating.</DonateText>
-  </Maintainer>
   <Labels/>
   <Config Name="Salt data directory" Target="/srv" Default="" Mode="rw" Description="Container Path: /srv" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/salt4unraid/srv</Config>
   <Config Name="Salt Config directory" Target="/etc/salt/" Default="" Mode="rw" Description="Container Path: /etc/salt/" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/salt4unraid/etc</Config>
