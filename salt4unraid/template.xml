@@ -23,7 +23,7 @@
   <Description>Salt is am orchestration remote execution tool for linux, MacOs and Windows systems. This is a container with a preconfigured salt-master optimized for unraid. Since orchestration needs privileged a.k.a. root rights you should be carefully using it. Especially check the advanded options in the docker-tab. If you don't want salt to access your containers and virtual machines you should pass through the sockets.&#xD;
   But if you know what you are doing, have fun.
 &#xD;
-So use it at your own <B>risk</B>!</Description>
+So use it at your own risk!</Description>
   <Networking>
     <Mode>bridge</Mode>
     <Publish>
